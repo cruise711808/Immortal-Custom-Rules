@@ -4,7 +4,7 @@ DOMAIN,clash.razord.top
 DOMAIN,yacd.haishan.me
 DOMAIN,hcfy.ai
 DOMAIN,hf-mirror.com
-DOMAIN-SUFFIX,cdn.hf.co
+DOMAIN,us.aws.cdn.hf.co
 
 # bt
 DOMAIN-KEYWORD,aria2
